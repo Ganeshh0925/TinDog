@@ -79,3 +79,19 @@ $29/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
+
+## 🌐 Live Demo
+
+[🔗 View on GitHub Pages]( https://ganesh-911.github.io/TinDog/)
+
+---
+## 👤 Author
+
+**Ganesh Sai Durga**  
+GitHub: [@Ganesh-911](https://github.com/Ganesh-911)
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for learning or inspiration.
